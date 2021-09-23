@@ -1,0 +1,6 @@
+{
+  "watch": ["./lib"],
+  "ext": "*",
+  "ignore": [],
+  "exec": "node ./lib/storage.entry.js"
+}
